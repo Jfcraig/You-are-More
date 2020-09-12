@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Example.unity
+    guid: 17d10320f148ee64488837d5f8008cfd
+  - enabled: 0
+    path: Assets/Scenes/Solar SystemOld.unity
+    guid: c529d717f23388246bbff713982f0843
+  - enabled: 0
+    path: Assets/Scenes/Solar System 2.unity
+    guid: edf02293481e32d44be5261aeb97fc05
+  m_configObjects: {}
